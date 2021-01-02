@@ -41,7 +41,6 @@ const ReviewData = {
 
   review_ratings: [
     {
-      // image: “https://i.ibb.co/QcNmrhJ/serum.png”,
       total: 10,
       average: 4.3,
       rating_five: 4,

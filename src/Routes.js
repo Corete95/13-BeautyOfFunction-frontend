@@ -1,9 +1,5 @@
-// eslint-disable-next-line prettier/prettier
 import React, { Component } from "react";
-// eslint-disable-next-line prettier/prettier
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
-//Switch
-
 import MainPage from "./pages/Mainpage/Mainpage";
 import About from "./pages/About/About";
 import Cart from "./pages/Cart/Cart";
